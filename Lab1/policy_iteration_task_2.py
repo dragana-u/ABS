@@ -1,7 +1,7 @@
 import gymnasium as gym
 import numpy as np
 
-from ABS.Lab1.mdp import policy_iteration
+from mdp import policy_iteration
 from mdp import reward_and_visualize
 
 if __name__ == "__main__":
