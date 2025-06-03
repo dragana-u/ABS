@@ -1,0 +1,31 @@
+1.
+Total test episodes: 50
+Q-Learning agent wins: 16 (32.0%)
+Smart Random agent wins: 0 (0.0%)
+Draws: 34 (68.0%)
+Average reward Q-Learning agent: 0.000
+Average reward Smart Random agent: -0.320
+Q-table size: 137 states
+Final epsilon: 0.0100
+
+Q-Learning agent has higher average reward
+Q-Learning agent has more wins
+
+Според излезот, може да заклучиме дека Q-Learning агентот е поуспешен во играта во споредба со Smart Random агентот.
+
+
+2.
+Total test episodes: 50
+Q-Learning agent 1 wins: 0 (0.0%)
+Q-Learning agent 2 wins: 0 (0.0%)
+Draws: 50 (100.0%)
+Average reward Q-Learning agent 1: 0.000
+Average reward Q-Learning agent 2: 0.000
+Q-table size agent 1: 142 states
+Q-table size agent 2: 280 states
+
+Both agents have equal average reward
+Both agents have equal number of wins
+
+Според излезот, може да заклучиме дека двата Q-Learning агенти се изедначени во играта, бидејќи ниту еден не успева
+да победи, а сите игри завршуваат нерешено.
